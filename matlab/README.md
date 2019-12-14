@@ -10,3 +10,6 @@ Rotate the image by 45 and 90 degrees (Matlab provides simple command lines for 
 
 For every 3×3 block of the image (without overlapping), replace all corresponding 9 pixels by their average. This operation simulates reducing the image spatial resolution. Repeat this for 5×5 blocks and 7×7 blocks. If you are using Matlab, investigate simple command lines to do this important operation.
 > reduce_resol.m
+
+## Week 2
+Implement JPEG
